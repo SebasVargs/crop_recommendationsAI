@@ -1,0 +1,18 @@
+2025-10-24 18:27:06,177:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-24 18:27:06,177:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-24 18:27:06,177:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-24 18:27:06,177:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-24 18:27:08,038:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-24 18:27:08,038:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-24 18:27:08,038:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-24 18:27:08,038:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-24 18:27:34,461:INFO:Initializing load_model()
+2025-10-24 18:27:34,463:INFO:load_model(model_name=/Users/sebassmacos/development/python/flaskTallerBack/backend/models/crop_model, platform=None, authentication=None, verbose=True)
